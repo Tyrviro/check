@@ -5,10 +5,10 @@
         thanks to wait
         <?php
         if ($_POST["prenom"] == "Yannick") {
-            header('Location: Hindou.html');
+            header('Location: https://hindou.netlify.app/');
         }
         else {
-            header('Location: index.html');
+            header('Location: https://welcom.netlify.app/');
         }
         ?>
     </body>

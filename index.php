@@ -2,6 +2,7 @@
     <title>Check</title>
     <meta name ="salut" content="test.php" />
     <body>
+        thanks to wait
         <?php
         if ($_POST["prenom"] == "Yannick") {
             header('Location: Hindou.html');
